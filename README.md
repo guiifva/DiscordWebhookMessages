@@ -1,4 +1,4 @@
-![DiscordWebhookMessage Logo](https://github.com/guiifva/DiscordWebhookMessages/blob/main/Logo_DiscordWebhookMessage.jpg "DiscordWebhookMessage Logo")
+![DiscordWebhookMessage Logo](https://github.com/guiifva/DiscordWebhookMessages/blob/main/Images/Logo_DiscordWebhookMessage.jpg?raw=true "DiscordWebhookMessage Logo")
 
 # DiscordWebhookMessage
 
