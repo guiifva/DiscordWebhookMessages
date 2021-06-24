@@ -12,11 +12,23 @@
     <RepositoryType>git</RepositoryType>
     <Copyright />
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Description>A .NET library to allow you to send rich messages formatted in Discord, using webhook</Description>
+    <PackageIcon>Logo_DiscordWebhookMessage.jpg</PackageIcon>
+    <PackageIconUrl />
+    <PackageProjectUrl>https://github.com/guiifva/DiscordWebhookMessages</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\Logo_DiscordWebhookMessage.jpg">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
