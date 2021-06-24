@@ -85,7 +85,7 @@ Embed embed = new Embed()
 # Here is an example
 ## Code
 ```C#
-string discordWebhookUrl = "https://discord.com/api/webhooks/839875803676540969/rh9OuMlRCR47Xx7-5smmpX4MStD73mXz_3TraI0pKvMIEZ-qRMoVBAXMe3VL6eIReXGG";
+string discordWebhookUrl = "Your URL webhook";
 string username = "Your Username";
 string avatarUrl = "https://img2.gratispng.com/20180920/yko/kisspng-computer-icons-portable-network-graphics-avatar-ic-5ba3c66df14d32.3051789815374598219884.jpg";
 
