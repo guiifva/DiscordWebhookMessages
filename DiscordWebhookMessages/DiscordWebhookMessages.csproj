@@ -18,6 +18,8 @@
     <PackageIcon>Logo_DiscordWebhookMessage.jpg</PackageIcon>
     <PackageIconUrl />
     <PackageProjectUrl>https://github.com/guiifva/DiscordWebhookMessages</PackageProjectUrl>
+    <Version>1.0.1</Version>
+    <FileVersion>1.0.1.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>

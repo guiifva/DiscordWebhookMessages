@@ -36,13 +36,13 @@ namespace DiscordWebhookMessages.Models
         /// Color code of the embed. You have to use Decimal numeral system, not Hexadecimal. You can use SpyColor for that. It has decimal number converter.
         /// </summary>
         [JsonProperty("color")]
-        public uint Color { get; set; }
+        public uint? Color { get; set; }
 
         /// <summary>
         /// DateTime shown in message 
         /// </summary>
         [JsonProperty("timestamp")]
-        public DateTime Timestamp { get; set; }
+        public DateTime? Timestamp { get; set; }
 
         /// <summary>
         /// Embed footer object
